@@ -54,11 +54,9 @@ Mesmo ainda não trabalhando na área desejada, as minhas experiências profissi
 
 ## Repositórios Principais
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=Lading-Page-iPhone&theme=dark)](https://github.com/llucasgomes/Lading-Page-iPhone)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=Tela-Login-BSC&theme=dark)](https://github.com/llucasgomes/Tela-Login-BSC)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=portifolio&theme=dark)](https://github.com/llucasgomes/portifolio)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=Tela-Login-Star-Wars&theme=dark)](https://github.com/llucasgomes/Tela-Login-Star-Wars)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=llucasgomes&repo=Site-Sushi&theme=dark)](https://github.com/llucasgomes/Site-Sushi)
