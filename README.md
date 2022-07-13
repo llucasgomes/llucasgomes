@@ -47,9 +47,9 @@ Mesmo ainda não trabalhando na área desejada, as minhas experiências profissi
 
 
 ## Conheça-me mais...
-<div style="display:flex;justify-content:center;">
+
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/llucasgomess/)
-</div>
+
 
 
 ## Repositórios Principais
