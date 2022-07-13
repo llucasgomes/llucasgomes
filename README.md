@@ -41,7 +41,7 @@ Mesmo ainda não trabalhando na área desejada, as minhas experiências profissi
 - 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento.
 - 😄 Pronomes: Ele/Dele.
 
-[![Lucas Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=llucasgomes&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Lucas Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=llucasgomes&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llucasgomes&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
